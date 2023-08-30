@@ -1,0 +1,21 @@
+.address{
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.address_market{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.address_image{
+    width: 500px;
+    float: left;
+    
+
+}
+
+.address_title{
+    margin-left: 10px;
+}
+

@@ -1,0 +1,26 @@
+
+.card__item{
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 50px;
+}
+
+.food_price{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.food_title{
+    color: coral;
+}
+
+.food_text{
+    font-size: 13px;
+
+}
+
+.food_image{
+    width: 286px;
+    height: 171px;
+}
+
